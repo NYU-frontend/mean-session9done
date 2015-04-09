@@ -1,0 +1,74 @@
+@import url('normalize.css');
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	color: #666;
+	text-align:center;
+}
+a {
+	text-decoration: none;
+	color:#666;
+}
+nav * {
+	display: inline-block;
+	margin-right: 20px;
+}
+.chart {
+	border-left:1px solid #666;
+	border-bottom: 1px solid #666;
+	margin: 0 auto;
+	position: relative;
+	.y {
+		position: absolute;
+		padding: 5px;
+		transform: rotate(-90deg);
+		transform-origin: bottom left;
+		bottom: 0;
+	}
+	.x {
+		position: absolute;
+		width: 100%;
+		padding: 5px;
+		top:110%;
+	}
+	.bar {
+		background: #9351a6;
+		position: absolute;
+		bottom: 0;
+		}
+	.bar:nth-of-type(even){
+		background:#be4c39;
+	}
+	.label {
+		position: absolute;
+		bottom: -30px;
+		font-size: 10px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
