@@ -3,6 +3,8 @@
 		<h3>Login</h3>
 		<p>Login to enjoy the goodness.</p>
 
+		<p class="error" ng-show="message" >{{ message }}</p>
+
 		<input type="email" name="email" placeholder="email" autofocus
 		ng-model="user.email" ng-required="true"
 		>
