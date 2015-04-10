@@ -1,6 +1,6 @@
 #Mean Session 9 Files
 
-##Home word tbd
+##Homework tbd
 
 * firebase reference section - https://www.firebase.com/docs/web/libraries/angular/api.html
 * firebase migration guide - https://www.firebase.com/docs/web/libraries/angular/migration-guides.html
