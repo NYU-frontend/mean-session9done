@@ -1,6 +1,7 @@
 #Mean Session 9 Files
 
-##Homework tbd
+##Homework
+COntinue working on your midterm - aiming for finals
 
 * firebase reference section - https://www.firebase.com/docs/web/libraries/angular/api.html
 * firebase migration guide - https://www.firebase.com/docs/web/libraries/angular/migration-guides.html
